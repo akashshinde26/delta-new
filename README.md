@@ -1,2 +1,2 @@
-# delta-new
-This is a new for Git &amp; Github classes
+ # delta-new
+This is a new for Git &amp; Github classes.
